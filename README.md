@@ -1,6 +1,6 @@
 # Assisted Emotion Tagging System
 
-> A comprehensive emotion tagging system for video content analysis, built as a Final Year Project (FYP).
+> A comprehensive emotion tagging system for video content analysis
 
 [![Django](https://img.shields.io/badge/Django-Backend-green.svg)](https://www.djangoproject.com/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.0-646CFF.svg)](https://vitejs.dev/)
